@@ -106,5 +106,6 @@ figcaption {
 .clearfi:after {
   content: ".";
   display: block;
-  
+  clear: both;
+  visibility: hidden;
 }
