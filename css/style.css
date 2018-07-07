@@ -78,3 +78,15 @@ figcaption {
   margin: 0 auto;
   background-color: #eee;
 }
+
+.col-1 { /*span 1/3 space*/
+  float: left;
+}
+
+.col-2 { /*span 2/3 space*/
+  float: left;
+}
+
+.col-3 { /*span 3/3 space*/
+  float: left;
+}
