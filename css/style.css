@@ -102,3 +102,9 @@ figcaption {
 .first {
   margin-left: 0%;
 }
+
+.clearfi:after {
+  content: ".";
+  display: block;
+  
+}
